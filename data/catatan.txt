@@ -1,0 +1,5 @@
+
+Belajar File I/O Python
+Pertemuan 12 Algoritma dan Pemrograman
+Saya sedang belajar Python.
+Ini latihan append file.

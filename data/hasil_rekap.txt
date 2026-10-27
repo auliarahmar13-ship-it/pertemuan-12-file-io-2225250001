@@ -1,0 +1,6 @@
+=== REKAP NILAI MAHASISWA ===
+Jumlah data valid: 2
+Rata-rata nilai: 59.50
+Nilai minimum: 59
+Nilai maksimum: 60
+Jumlah mahasiswa lulus: 1
